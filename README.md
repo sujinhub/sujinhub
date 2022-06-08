@@ -24,14 +24,10 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
   <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white">
 
-  <br><br>
-  
   <!-- 백준 티어 -->
   ### 📌 Problem-Solving
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pppsujin)](https://solved.ac/pppsujin) <br>
   <img src="http://mazandi.herokuapp.com/api?handle=pppsujin&theme=warm"/>
-  
-  <br>
   
   <!-- 기타 활동 -->
   ### 📌 Extracurricular activities
