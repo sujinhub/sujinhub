@@ -4,7 +4,8 @@
 - 🎓 I graduated with a bachelor's degree in Embedded-Systems Engineering from Incheon National University.
 
 ## Experiences 👩‍💻
-- **Feb. 2022 - Present** R&D Engineer I at Synopsys
+- **Oct. 2023 - Present** 생능북스 서포터즈
+- **Feb. 2023 - Present** R&D Engineer I at Synopsys
 - **Nov. 2022 - Dec. 2022** 위키북스 C# 서포터즈 1기 
 - **Aug. 2022** 삼성전자 DX 부문 하계 대학생 SW 역량강화특강 수료 
 - **Jul. 2022** 삼성SDS 하계 대학생 알고리즘 특강 수료 
